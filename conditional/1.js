@@ -1,4 +1,3 @@
-
 const ps = require ("prompt-sync")
 const prompt = ps();
 const a=prompt("enter a: ");
